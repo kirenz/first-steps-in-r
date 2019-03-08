@@ -46,7 +46,7 @@ First of all, you can take an online course to master the basics of R: Visit the
 There are also open and free resources and reference guides for R. Two examples are:
 
 * [Quick-R](http://www.statmethods.net/): a quick online reference for data input, basic statistics and plots
-* R reference card (PDF)[https://cran.r-project.org/doc/contrib/Short-refcard.pdf] by Tom Short 
+* [R reference card (PDF)](https://cran.r-project.org/doc/contrib/Short-refcard.pdf) by Tom Short 
 
 Two key things you need to know about R is that you can get help for a function using `help` or `?`, like this:
 ```{r,eval=FALSE}
