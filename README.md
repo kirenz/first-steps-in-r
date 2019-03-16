@@ -91,3 +91,5 @@ a new R session.
 
 If you try to load a package and get an error, it probably means you need to
 install it first.
+
+Review the [dplyr-documentation](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) to get an overview about the different functionalities of this package.
