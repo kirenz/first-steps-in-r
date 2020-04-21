@@ -32,24 +32,19 @@ When the download completes, double-click on the .pkg file and answer the usual 
 
 ## Installing RStudio
 
-The next step is to install **RStudio**, a free and open-source integrated development environment (IDE) for R. You can use it for viewing and running R scripts. 
+The next step is to install **RStudio**, a free and open-source integrated development environment (IDE) for R. You can use it for viewing and running R scripts. We install the latest preview version of the software:
 
-Go to [RStudio Download](https://www.rstudio.com/products/rstudio/#Desktop)
+Go to [RStudio Download](https://rstudio.com/products/rstudio/download/preview/)
 Click the Download RStudio Desktop button.
 Select the installation file for your system.
 Run the installation file.
 
 
-## Learn R Basics
+## R Basics
 
-First of all, you can take an online course to master the basics of R: Visit the interactive [R-Course](https://www.datacamp.com/getting-started?step=2&track=r) from DataCamp. With the knowledge gained in this courses, you will be ready to undertake your first very own data analysis. 
-
-There are also open and free resources and reference guides for R. Two examples are:
-
-* [Quick-R](http://www.statmethods.net/): a quick online reference for data input, basic statistics and plots
-* [R reference card (PDF)](https://cran.r-project.org/doc/contrib/Short-refcard.pdf) by Tom Short 
 
 Two key things you need to know about R is that you can get help for a function using `help` or `?`, like this:
+
 ```{r,eval=FALSE}
 ?install.packages
 help("install.packages")
