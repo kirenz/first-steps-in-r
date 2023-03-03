@@ -12,32 +12,34 @@ the [Comprehensive R Archive Network](https://cran.r-project.org/)
 (CRAN). 
 
 Windows:
-Open the [Comprehensive R Archive Network](https://cran.r-project.org/). 
-Click on “CRAN”. You’ll see a list of mirror sites, organized by country. 
-Select a site near you. 
-Click on “Windows” under “Download and Install R”. 
-Click on “base”. 
-Click on the link for downloading the latest version of R (an .exe file). 
-When the download completes, double-click on the .exe file and answer the usual questions. 
+
+- Open the [Comprehensive R Archive Network](https://cran.r-project.org/). 
+- Click on “CRAN”. You’ll see a list of mirror sites, organized by country. 
+- Select a site near you. 
+- Click on “Windows” under “Download and Install R”. 
+- Click on “base”. 
+- Click on the link for downloading the latest version of R (an .exe file). 
+- When the download completes, double-click on the .exe file and answer the usual questions. 
 
 Mac:
-Open the [Comprehensive R Archive Network](https://cran.r-project.org/). 
-Click on “CRAN”. 
-You’ll see a list of mirror sites, organized by country. 
-Select a site near you. 
-Click on “MacOS X”. 
-Click on the .pkg file for the latest version of R, under “Files:”, to download it. 
-When the download completes, double-click on the .pkg file and answer the usual questions. 
+
+- Open the [Comprehensive R Archive Network](https://cran.r-project.org/). 
+- Click on “CRAN”. 
+- You’ll see a list of mirror sites, organized by country. 
+- Select a site near you. 
+- Click on “MacOS X”. 
+- Click on the .pkg file for the latest version of R, under “Files:”, to download it. 
+- When the download completes, double-click on the .pkg file and answer the usual questions. 
 
 
 ## Installing RStudio
 
 The next step is to install **RStudio**, a free and open-source integrated development environment (IDE) for R. You can use it for viewing and running R scripts. We install the latest preview version of the software:
 
-Go to [RStudio Download](https://rstudio.com/products/rstudio/download/preview/)
-Click the Download RStudio Desktop button.
-Select the installation file for your system.
-Run the installation file.
+- Go to [RStudio Download](https://rstudio.com/products/rstudio/download/preview/)
+- Click the Download RStudio Desktop button.
+- Select the installation file for your system.
+- Run the installation file.
 
 
 ## R Basics
