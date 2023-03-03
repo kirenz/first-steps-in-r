@@ -3,7 +3,6 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
 
-In this tutorial we will be using the R programming language for all our analysis. You will learn the programming language R and statistics simultaneously. 
 
 
 ## Installing R
