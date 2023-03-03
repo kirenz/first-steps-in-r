@@ -3,7 +3,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
 
-Download the PDF [R overview](https://github.com/kirenz/first-steps-in-r/blob/master/R_overview.pdf) to get an overview about R and a list of helpful resources (you need to download the file in order to use the embedded links).
+
 
 ## Installing R
 
